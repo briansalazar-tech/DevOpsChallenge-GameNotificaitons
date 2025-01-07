@@ -4,7 +4,7 @@
         {
             "Effect": "Allow",
             "Action": "sns:Publish",
-            "Resource": "copy-arn-value-here"
+            "Resource": "copy-arn-value-here-and-copy-paste-page-into-IAM-policy"
         }
     ]
 }
